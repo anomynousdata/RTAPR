@@ -6,10 +6,10 @@ This repository contains the replication data and relevant descriptions.
 	|-- AllData 
 		|-- APR_tool_name.zip (12 tools in total)
 			|-- Subject_name (4-6 subjects in total)
-			    |-- i_CLASS
-			    |-- i_METHOD
-			    |-- i_STATE
-			    |-- i_NORTS
+			    |-- CLASS
+			    |-- METHOD
+			    |-- STATE
+			    |-- NORTS
 
  *AllData* is the root directory, and it contains the results of all 12 studied APR tools as shown in the following table.
 
