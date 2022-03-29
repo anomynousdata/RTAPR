@@ -6,7 +6,7 @@ This repository contains the replication data and relevant descriptions.
 	|-- AllData 
 		|-- Subject_name.json.tar.gz 
 			|-- each tool 
-			    |-- i_Class
+			    |-- i_CLASS
 			    |-- i_METHOD
 			    |-- i_STATE
 			    |-- i_NORTS
